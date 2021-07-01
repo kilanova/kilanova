@@ -18,7 +18,7 @@
   <a href="https://github.com/quizbooks?tab=repositories">
 </br>
 <a href="https://github.com/quizbooks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=quizbooks&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=quizbooks&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000ue&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true" />
   <a href="https://github.com/quizbooks?tab=repositories">
 
 ## Langs
