@@ -22,7 +22,7 @@
   <a href="https://github.com/quizbooks?tab=repositories">
 </br>
 <a href="https://github.com/quizbooks">
-  <img align="center" src="https://github-profile-trophy.vercel.app/api/pin/?username=quizbooks&Layout=compact&theme=dark" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/api/pin/?username=quizbooks&theme=dark" />
   <a href="https://github.com/quizbooks?tab=repositories">
 
 ### 🏆
