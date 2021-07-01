@@ -20,10 +20,6 @@
 <a href="https://github.com/quizbooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=quizbooks&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
   <a href="https://github.com/quizbooks?tab=repositories">
-</br>
-<a href="https://github.com/quizbooks">
-  <img align="center" src="https://github-profile-trophy.vercel.app/api/pin/?username=quizbooks&theme=dark" />
-  <a href="https://github.com/quizbooks?tab=repositories">
 
 ### 🏆
   <img src="https://github-profile-trophy.vercel.app/?username=quizbooks&margin-w=25&margin-h=25&column=7&theme=darkhub" />
