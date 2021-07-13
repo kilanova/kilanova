@@ -5,7 +5,7 @@
 ### info about me
 - 👋 Hi, I’m @quizbooks
 - 👀 I’m interested in coding (duh)
-- 🌱 I’m currently learning python, discord.py, and a little js
+- 🌱 I’m currently learning discord.py, and a little js
 - 💞️ I’m looking to collaborate on nothing atm
 - 📫 How to reach me, on discord ***cl#0609***
 
