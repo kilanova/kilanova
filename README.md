@@ -15,6 +15,7 @@
 ## 🎖️
 <a href="https://discordbotlist.com/bots/859549304946425856">
   <img src="https://discordbotlist.com/api/v1/bots/859549304946425856/widget"></a>
+</br>
 <a href="https://github.com/quizbooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quizbooks&layout=compact&theme=dark" />
   <a href="https://github.com/quizbooks?tab=repositories">
