@@ -12,14 +12,15 @@
 ### discord
 <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
 
+## 🎖️
 <a href="https://discordservices.net/bot/859549304946425856">
 <img src="https://discordservices.net/bot/859549304946425856/widget.svg" />
 </a>
-
-## 🎖️
 <a href="https://discordbotlist.com/bots/859549304946425856">
   <img src="https://discordbotlist.com/api/v1/bots/859549304946425856/widget"></a>
 </br>
+
+## 🎖️
 <a href="https://github.com/quizbooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quizbooks&layout=compact&theme=dark" />
   <a href="https://github.com/quizbooks?tab=repositories">
