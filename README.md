@@ -18,7 +18,7 @@
 </a>
 <a href="https://discordbotlist.com/bots/859549304946425856">
   <img src="https://discordbotlist.com/api/v1/bots/859549304946425856/widget"></a>
-</br>
+</a>
 <a href="https://discords.com/bots/bots/859549304946425856" >
             <img src="https://discords.com/bots/api/bot/859549304946425856/widget" title="Visit gloom listed on Discords.com!" alt="gloom's Widget Failed to Load" /></a>
         
