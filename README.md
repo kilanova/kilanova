@@ -11,7 +11,8 @@
 
 ### discord
 <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
-[![Discord](https://discord.com/api/guilds/786359602241470464/widget.png?style=banner4)](https://discord.gg/bUpF6d6bP9)
+<a href="https://discord.gg/bUpF6d6bP9">
+  <img src="https://discord.com/api/guilds/786359602241470464/widget.png?style=banner4"></a>
 
 ## 🎖️
 <a href="https://discordservices.net/bot/859549304946425856">
