@@ -14,7 +14,7 @@
 <a href="https://discordservices.net/bot/859549304946425856">
 <img src="https://discordservices.net/bot/859549304946425856/widget.svg" />
 <a href="https://discord.gg/bUpF6d6bP9">
-<img src="https://discord.com/api/guilds/786359602241470464/widget.png?style=banner4">
+<img src="https://discord.com/widget?id=859582950013534219&theme=dark">
 
 ## 🎖️
 <a href="https://discordservices.net/bot/859549304946425856">
