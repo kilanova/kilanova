@@ -13,6 +13,7 @@
 <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
 <a href="https://discord.gg/bUpF6d6bP9">
   <img src="https://discord.com/api/guilds/859582950013534219/widget.json"></a>
+<iframe src="https://discord.com/widget?id=859582950013534219&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## 🎖️
 <a href="https://discordservices.net/bot/859549304946425856">
