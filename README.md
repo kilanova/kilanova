@@ -11,7 +11,7 @@
 
 ### discord
 <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
-<a href="https://discord.gg/bUpF6d6bP9">
+<a href="https://discord.gg/SEhA4U8SS9">
 <img src="https://discord.com/api/guilds/859582950013534219/widget.png?style=banner2">
 
 ## 🎖️
