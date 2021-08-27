@@ -4,7 +4,7 @@
 <a href="https://discord.gg/SEhA4U8SS9">
 <img src="https://discord.com/api/guilds/874406599127609384/widget.png?style=banner2">
 
-## 🎖️
+## 🎖️ 
 <a href="https://discordservices.net/bot/859549304946425856">
 <img src="https://discordservices.net/bot/859549304946425856/widget.svg" />
 </a>
