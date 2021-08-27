@@ -1,18 +1,8 @@
 <h1 align="center">quizbooks</h1>
 
-## i code in my freetime - and i suck
-
-### info about me
-- 👋 Hi, I’m @quizbooks
-- 👀 I’m interested in coding (duh)
-- 🌱 I’m currently learning discord.py, and a little js
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me, on discord ***cl#0609***
-
-### discord
 <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
 <a href="https://discord.gg/SEhA4U8SS9">
-<img src="https://discord.com/api/guilds/859582950013534219/widget.png?style=banner2">
+<img src="https://discord.com/api/guilds/874406599127609384/widget.png?style=banner2">
 
 ## 🎖️
 <a href="https://discordservices.net/bot/859549304946425856">
