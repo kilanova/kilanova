@@ -1,4 +1,4 @@
-# Hi, im clues also known as quizbooks
+# quizbooks
 
 ## i code in my freetime - and i suck
 
