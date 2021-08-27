@@ -1,4 +1,4 @@
-# quizbooks
+<h1 align="center">quizbooks</h1>
 
 ## i code in my freetime - and i suck
 
