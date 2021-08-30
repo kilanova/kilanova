@@ -1,8 +1,10 @@
 <h1 align="center">quizbooks</h1>
 
+<p align="center">
+  <a href="https://github.com/quizbooks">
+    <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
 ![](https://komarev.com/ghpvc/?username=quizbooks)
-
-<img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
+    
 <a href="https://discord.gg/SEhA4U8SS9">
 <img src="https://discord.com/api/guilds/874406599127609384/widget.png?style=banner2">
 
