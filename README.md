@@ -2,7 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/quizbooks">
-    <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png">
+    <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png"/>
+  </a>
+</p>
+  
 ![](https://komarev.com/ghpvc/?username=quizbooks)
     
 <a href="https://discord.gg/SEhA4U8SS9">
