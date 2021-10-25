@@ -24,7 +24,6 @@ class Quizbooks(ReadMe):
             "quiz",
             "quizbooks"
         ]
-        self.location = "Canada, Ontario"
         self.occupation = "Freelance Developer"
         self.projects = {
             "public": {
