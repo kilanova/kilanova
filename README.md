@@ -11,7 +11,7 @@
 ```py
 from GitHub import ReadMe
 
-class Dropout(ReadMe):
+class Quizbooks(ReadMe):
     "/quizbooks/quizbooks/README.md"
 
     def __init__(self):
