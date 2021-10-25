@@ -33,7 +33,7 @@ class Quizbooks(ReadMe):
                   "location": "solo.to/wraithbot"
             }
         }
-        self.operating_system = Windows"
+        self.operating_system = "Windows"
 ```
 
 # stats
