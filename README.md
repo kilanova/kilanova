@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/quizbooks">
-    <img src="https://discord.c99.nl/widget/theme-4/852933534704205864.png"/>
+    <img src="https://discord.c99.nl/widget/theme-4/902326188406607902.png"/>
   </a>
 </p>
 
@@ -17,12 +17,13 @@ class Quizbooks(ReadMe):
     def __init__(self):
         self.username = "clues"
         self.contacts = {
-            "Discord": "clues#1337",
+            "Discord": "5tro#5234",
             "Telegram": None
         }
         self.alises = [
             "quiz",
-            "quizbooks"
+            "quizbooks",
+            "5tro"
         ]
         self.occupation = "Freelance Developer"
         self.projects = {
