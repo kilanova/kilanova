@@ -17,7 +17,7 @@ class Quizbooks(ReadMe):
     def __init__(self):
         self.username = "clues"
         self.contacts = {
-            "Discord": "5tro#5234",
+            "Discord": "protocol#7285",
             "Telegram": None
         }
         self.alises = [
@@ -29,7 +29,7 @@ class Quizbooks(ReadMe):
         self.projects = {
             "public": {
                   "total": 1,
-                  "location": "solo.to/wraithbot"
+                  "location": "solo.to/wraithbot (canceled)"
             }
         }
         self.operating_system = "Windows"
